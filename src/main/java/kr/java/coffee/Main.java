@@ -18,9 +18,7 @@ public class Main {
 			System.out.println("같음");
 		} else {
 			System.out.println("다름");
-		
 		}
-		
 		// 이문장은 GitHub에서 작성
 	}
 
